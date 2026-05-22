@@ -1,0 +1,62 @@
+# Quartus Prime generated files
+/db/
+/incremental_db/
+/output_files/
+*.qws
+*.qdf
+*.qws
+*.qmsg
+*.rpt
+*.summary
+*.smsg
+*.done
+*.sof
+*.pof
+*.jic
+*.jdi
+*.pin
+*.sld
+
+# ModelSim / Questa generated files
+Simulation/work/
+Simulation/cycloneive/
+Simulation/modelsim/
+Simulation/*.wlf
+Simulation/wlft*
+Simulation/*.transcript
+Simulation/*_transcript.txt
+Simulation/transcript
+Simulation/.transcript
+Simulation/fs_full.log
+Simulation/modelsim.ini
+Simulation/*.vho
+Simulation/*.sdo
+Simulation/*.sdo_*.csd
+Simulation/*.sdo_max.csd
+Simulation/FinalProject.cr.mti
+Simulation/FinalProject.mpf
+Simulation/wave.do
+transcript
+*_transcript.txt
+
+# Local archives and editor files
+*.zip
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.claude/
+
+# Python/local cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated analysis artifacts
+/analysis/
+/portfolio/*_preview.png
+
+# Excel temporary lock files
+~$*.xlsx
+~$*.xls
